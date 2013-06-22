@@ -3,4 +3,4 @@ portfolio
 
 Professional Portfolio
 
-...more details...
+...more details...<b>bold</b>
