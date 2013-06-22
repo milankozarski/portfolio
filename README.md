@@ -5,4 +5,4 @@ Professional Portfolio
 
 ...more details...<b>bold</b>
 
-<a href="www.google.com">Link</a>
+<a href="http://www.google.com">Link</a>
