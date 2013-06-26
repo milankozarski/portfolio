@@ -12,4 +12,3 @@ Text
 
 <a href="README.md">Relative Link</a>
 
-<iframe src="http://milankozarski.blogspot.ca/" height="100%" width="100%" frameborder=0 />
